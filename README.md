@@ -39,7 +39,7 @@ Live URL: https://dergigi.org
 
 Source: https://github.com/dergigi/dergigi-org
 
-Deployments currently use the Vercel CLI. `.vercel/` contains local project linkage and is not committed. Run `npx vercel@latest link` to connect a new checkout to the Vercel project.
+Vercel is connected to this GitHub repository. Pushes to `master` automatically deploy to production at https://dergigi.org; other branches receive preview deployments. `.vercel/` contains local project linkage and is not committed. Run `npx vercel@latest link` to connect a new checkout for manual CLI deployments.
 
 ## Content and assets
 
