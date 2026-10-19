@@ -1,0 +1,2 @@
+Built-in imagegen edit of social-preview.png.
+Edit this Open Graph artwork with exactly one change: recolor the small black ghost at the far left to Goop brand purple, hex #6c4399. Preserve its white eyes, sculptural matte texture, shape, position, scale, lighting, and realistic shadow. Keep EVERYTHING ELSE unchanged: the blue waveform, paper strip and yellow highlight, charcoal search box, blue ant, phone, large blue feather, background texture, composition, aspect ratio, and dimensions. Do not add any text or other elements.
